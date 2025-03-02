@@ -39,7 +39,7 @@ async function downloadSessionData() {
     console.error("Please add your session to SESSION_ID env !!");
     return false;
   }
-  const _0x331b8a = _0xccedb8.SESSION_ID.split("Obitomd$")[0x1];
+  const _0x331b8a = _0xccedb8.SESSION_ID.split("OBITO-MD&")[0x1];
   const _0x170b41 = 'https://pastebin.com/raw/' + _0x331b8a;
   try {
     const _0x5a3e5f = await _0x5a7360.get(_0x170b41);
