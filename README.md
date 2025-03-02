@@ -10,7 +10,7 @@
  <a href="https://github.com/MANOJ-X-D/OBITO-MD/fork"><img title="OBITO-MD" src="https://img.shields.io/badge/FORK-OBITO MD-h?color=green&style=for-the-badge&logo=github"></a>
    
 <p align="lift">
-<a href="https://sarkar-md-session-generator.koyeb.app/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION-1-blue?style=for-the-badge&logo=koyeb"></a>
+<a href="https://obito-pair-1.onrender.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION-1-blue?style=for-the-badge&logo=koyeb"></a>
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
@@ -18,12 +18,12 @@
   </p>
 <p align="center">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=OBITO%20MANOJXD&color=orange&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=%20MANOJXD&color=orange&style=plastic" alt="Developer Badge">
 </p> 
 
 </p>
 <p align="center">
-<a href="https://github.com/MANOJ-X-D"><img title="Author" src="https://img.shields.io/badge/OBITO-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vb8MXtb3GJOqeYi8VF0p"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923253617422"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/MANOJ-X-D"><img title="Author" src="https://img.shields.io/badge/OBITO-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vb8MXtb3GJOqeYi8VF0p"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/917005439105"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/MANOJ-X-D?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MANOJ-X-D?label=Followers&style=social"></a>
