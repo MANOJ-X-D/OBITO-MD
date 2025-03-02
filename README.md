@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+SATAR+FORK+MYREPO;CREATED+BY+MANOJXD;RELEASED+02-02-2025" alt="Typing SVG" /></a>  
 
-  <a href="https://files.catbox.moe/s1q8so.jpeg">
-    <img alt="secktor docs" height="300" src="https://files.catbox.moe/s1q8so.jpeg">
+  <a href="https://cdn.ironman.my.id/i/amtivf.jpg">
+    <img alt="secktor docs" height="300" src="https://cdn.ironman.my.id/i/amtivf.jpg">
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
